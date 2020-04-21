@@ -1,0 +1,1 @@
+alert('If tou want to, just change the index html to one of the scripts stored in tools folders and see what happens. CHEERS!');
